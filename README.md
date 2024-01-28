@@ -1,2 +1,2 @@
-# Image-Caption-Generator-using-CNN-and-LSTM
-Welcome to my Project
+# Image Caption Generator using Deep Learning
+## Introduction
