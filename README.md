@@ -3,4 +3,6 @@ Welcome to the Image Caption Generator project! This repository contains the cod
 (CNN) and Long Short-Term Memory (LSTM) networks, this project enables the automatic generation of relevant captions for images.
 ## Introduction
 Have you ever wondered how computers can understand and describe the content of images? With the advancement of Computer Vision and Deep Learning algorithms, it has become possible to build an Image Caption Generator. In this project, we'll walk through the process of creating a model that generates relevant captions for images using Deep Learning techniques.
+## What is Image Caption Generator?
+An Image Caption Generator is a system that automatically generates textual descriptions for images. This project utilizes deep learning techniques, specifically CNN and LSTM networks, to achieve this task. The model is trained on a dataset of images paired with corresponding captions, learning to associate images with appropriate descriptions.
 
