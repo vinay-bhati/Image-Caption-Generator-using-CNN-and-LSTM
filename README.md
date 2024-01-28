@@ -7,4 +7,11 @@ Have you ever wondered how computers can understand and describe the content of 
 An Image Caption Generator is a system that automatically generates textual descriptions for images. This project utilizes deep learning techniques, specifically CNN and LSTM networks, to achieve this task. The model is trained on a dataset of images paired with corresponding captions, learning to associate images with appropriate descriptions.
 ## Dataset 📂
 The Flickr_8K dataset is used for training the image caption generator model. This dataset consists of images paired with corresponding captions. The images are stored in the 'Flicker8k_Dataset' folder, and the captions are stored in the 'Flickr_8k_text' folder.
+## Dependencies 📦
+  • Python 3.x
+  • TensorFlow
+  • Keras
+  • NumPy
+  • Matplotlib
+  • NLTK
 
