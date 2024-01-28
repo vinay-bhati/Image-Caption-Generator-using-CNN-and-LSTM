@@ -14,4 +14,11 @@ The Flickr_8K dataset is used for training the image caption generator model. Th
   • NumPy  
   • Matplotlib  
   • NLTK  
+## Getting Started 🛠️
+To get started with this project, follow these steps:
 
+1. Clone this repository to your local machine.
+2. Install the required dependencies listed.
+3. Download the Flickr_8K dataset and preprocess it as described in the project documentation.
+4. Run the train_caption_generate.ipynb Jupyter notebook to train the image caption generator model.
+5. Test the trained model using the provided test images or your own images.
