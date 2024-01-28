@@ -26,6 +26,6 @@ To get started with this project, follow these steps:
 ## Future Work
 While the current model provides a good starting point, there are several potential improvements that could be made:
 
-Training on a larger dataset: The model could potentially generate more accurate and diverse captions if trained on a larger dataset.
-Fine-tuning the model architecture: Adjusting the parameters of the CNN and LSTM could lead to improvements in the quality of the generated captions.
-Incorporating attention mechanisms: Attention mechanisms could help the model focus on specific parts of the image when generating each word in the caption.
+• Training on a larger dataset: The model could potentially generate more accurate and diverse captions if trained on a larger dataset.  
+• Fine-tuning the model architecture: Adjusting the parameters of the CNN and LSTM could lead to improvements in the quality of the generated captions.  
+• Incorporating attention mechanisms: Attention mechanisms could help the model focus on specific parts of the image when generating each word in the caption.  
