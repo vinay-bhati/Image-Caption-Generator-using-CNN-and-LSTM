@@ -14,6 +14,9 @@ The Flickr_8K dataset is used for training the image caption generator model. Th
   • NumPy  
   • Matplotlib  
   • NLTK  
+## Model Architecture 🏗️
+The model architecture is a combination of a Convolutional Neural Network (CNN) and a Long Short-Term Memory (LSTM) network. The CNN is used as an “encoder” to extract features from the image, and the LSTM acts as a “decoder” to generate a sequence of words (i.e., a caption) from the extracted features.  
+  
 ## Getting Started 🛠️
 To get started with this project, follow these steps:
 
@@ -23,7 +26,7 @@ To get started with this project, follow these steps:
 4. Run the train_caption_generate.ipynb Jupyter notebook to train the image caption generator model.
 5. Test the trained model using the provided test images or your own images.
 
-## Future Work
+## Future Work 🚀
 While the current model provides a good starting point, there are several potential improvements that could be made:
 
 • Training on a larger dataset: The model could potentially generate more accurate and diverse captions if trained on a larger dataset.  
