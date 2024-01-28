@@ -22,3 +22,10 @@ To get started with this project, follow these steps:
 3. Download the Flickr_8K dataset and preprocess it as described in the project documentation.
 4. Run the train_caption_generate.ipynb Jupyter notebook to train the image caption generator model.
 5. Test the trained model using the provided test images or your own images.
+
+## Future Work
+While the current model provides a good starting point, there are several potential improvements that could be made:
+
+Training on a larger dataset: The model could potentially generate more accurate and diverse captions if trained on a larger dataset.
+Fine-tuning the model architecture: Adjusting the parameters of the CNN and LSTM could lead to improvements in the quality of the generated captions.
+Incorporating attention mechanisms: Attention mechanisms could help the model focus on specific parts of the image when generating each word in the caption.
